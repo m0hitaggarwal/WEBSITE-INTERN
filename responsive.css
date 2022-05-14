@@ -1,0 +1,33 @@
+@media only screen  and (min-width:320px) and (max-width:770px){
+    .nav-middle h1 {
+        color: white;
+        font-size: 48px;
+    }
+    .mid-nav {
+        display: flex;
+        flex-direction: column;
+        padding: 20px 50px;
+    }
+    .section-1 {
+        display: flex;
+        flex-direction: column;
+    }
+    .partition-1 h1 {
+        font-size: 60px;
+    }
+    .partition-1 {
+        width: 65%;
+        padding: 45PX 65PX;
+    }
+    .partition-1 p {
+        text-align: center;
+        font-size: 19px;
+    }
+    .footer {
+        display: flex;
+        flex-direction: column;
+        color: white;
+        padding: 10px;
+    }
+    
+}
